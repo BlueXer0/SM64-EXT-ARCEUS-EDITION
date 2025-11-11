@@ -2,7 +2,7 @@
 - USE EUROPE ROM
 - Patch rom and enjoy
 
-- Credits
+# Credits
 - BlueXer0
 - Larrykoopa64dshacker
 - pants64
